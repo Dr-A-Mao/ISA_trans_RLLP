@@ -1,0 +1,1 @@
+The core simulation main function is implemented in main.slx, and parameter configuration can be completed via the script param.m.
